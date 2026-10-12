@@ -1,1 +1,1 @@
-# Winegard-Playmaker
+# Winegard Playmaker
